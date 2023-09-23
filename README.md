@@ -1,4 +1,4 @@
-# docker-swarm-autoscaler
+# Docker Swarm-autoscaler
 
 Installation:
 - docker
